@@ -17,6 +17,7 @@ namespace GitTestWebApp
     {
         public static void Main(string[] args)
         {
+            //editing for testing purpose
             CreateHostBuilder(args).Build().Run();
         }
 
