@@ -9,6 +9,10 @@ using Microsoft.Extensions.Logging;
 
 namespace GitTestWebApp
 {
+
+    /// <summary>
+    /// Test
+    /// </summary>
     public class Program
     {
         public static void Main(string[] args)
